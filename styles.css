@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background-color: rgb(14,115,100);
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    margin: 50px;
+    padding-top:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+    font-weight:bold;
+    border: solid 3px black;
+
+}
+#top{
+    font-size: 20px;
+}
+#bottom{
+    font-size: 30px;
+}
+.name{
+    background-color: lightcoral;
+}
